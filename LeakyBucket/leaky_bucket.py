@@ -1,4 +1,9 @@
 #Task 3
+#Basis
+#Transmitted packets can be of different lengths
+#The bucket capacity is the sum of the total amount
+#of data that is contained in the bucket,
+#not the number of packets
 
 from Queue import Queue
 from threading import Thread
